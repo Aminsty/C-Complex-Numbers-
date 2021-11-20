@@ -1,2 +1,2 @@
 # C-Complex-Numbers-Project
-This is a C++ project intending to make use of the complex numbers notions and apply them on the executable platform where there is no such a thing as complex numbers using the structuring notion of C, this project contains all the standard operations and applications for complex numbers.
+Ce projet est réalisé avec C++ dans le but d'appliquer la notion de nombres complexes sur un programme C++ où cette notion n'existe pas en utilisant la structuration dans C++, le projet contient aussi des fonctions définissants les opérations sur les nombres complexes.
